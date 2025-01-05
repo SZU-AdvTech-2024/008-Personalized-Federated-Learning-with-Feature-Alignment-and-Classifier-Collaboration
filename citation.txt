@@ -1,0 +1,7 @@
+@inproceedings{REPO008,
+    author = "Xu, Jian and Tong, Xinyi and Huang, Shao-Lun",
+    booktitle = "The Eleventh International Conference on Learning Representations",
+    title = "{Personalized Federated Learning with Feature Alignment and Classifier Collaboration}",
+    url = "https://openreview.net/forum?id=SXZr8aDKia",
+    year = "2023"
+}
